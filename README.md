@@ -66,5 +66,5 @@ Totals & summary sheet
 └── README.md               # You are here
 
 🧑‍💻
-Developed by alireza ahmadi
+Developed by alireza ahmadi.
 If you have questions or suggestions, feel free to open an issue or contact me.
